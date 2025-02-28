@@ -1,4 +1,4 @@
-# vue-futura
+# vue-futura (reproduction d'une page du site)
 
 This template should help get you started developing with Vue 3 in Vite.
 
