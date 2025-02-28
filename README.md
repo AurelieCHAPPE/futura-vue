@@ -1,7 +1,7 @@
 # Reproduction de la Home du site avec Vue.js
 
 ## Description
-Ce projet consiste à recréer la page d'accueil d'un site sous Vue.js en créeant 4 composants et utilisant des props.
+Ce projet consiste à recréer la page d'accueil d'un site sous Vue.js en créeant 4 composants et en utilisant des props.
 
 ## Recommended IDE Setup
 
