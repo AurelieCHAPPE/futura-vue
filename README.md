@@ -1,7 +1,7 @@
 # Reproduction de la Home du site avec Vue.js
 
 ## Description
-Ce projet consiste à recréer la page d'accueil d'un site sous Vue.js en créeant 4 composants et en utilisant des props.
+Ce projet consiste à recréer une version simplifiée de la page d'accueil du site Futura. Il comprend quatre composants Vue.js : Header.vue, FrontPage.vue, ArticleCard.vue et Footer.vue. L'objectif principal est de travailler l'affichage dynamique d'images et d'articles à partir d'un fichier JSON.
 
 ## Recommended IDE Setup
 
